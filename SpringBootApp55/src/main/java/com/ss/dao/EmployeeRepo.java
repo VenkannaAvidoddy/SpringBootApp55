@@ -7,5 +7,4 @@ import com.ss.model.Employee;
 
 @Repository
 public interface EmployeeRepo extends JpaRepository<Employee,Integer>{
-
 }
